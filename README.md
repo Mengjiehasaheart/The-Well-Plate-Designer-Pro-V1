@@ -6,6 +6,7 @@ This first edition web based interface was created aiming to facilitate this pro
 
 ## So for Quick Start of the GUI, I am using streamlit to host this
 you might have to wake the app up sometimes when it's gone to sleep
+https://wellplate.streamlit.app
 
 
 If running locally, install the requirements first as following: 
