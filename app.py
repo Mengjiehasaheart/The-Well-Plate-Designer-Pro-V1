@@ -22,7 +22,7 @@ except ImportError:
 import plotly.graph_objects as go
 
 st.set_page_config(
-    page_title="Well Plate Designer Pro",
+    page_title="Mengjie's Premium Well Plate Designer Pro",
     page_icon="⚫",
     layout="wide",
     initial_sidebar_state="expanded"
